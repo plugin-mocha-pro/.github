@@ -1,6 +1,8 @@
 # Mocha Pro Plugin
 Mocha Pro is an award-winning planar tracking and visual effects software, developed by Boris FX. It is widely regarded as an indispensable tool for film, broadcast, and post-production professionals who need to perform complex visual effects tasks with speed and precision.
 
+[![325623473445](https://github.com/user-attachments/assets/4a9f37a1-56a5-42d7-a49a-c02efe31d596)](https://y.gy/macho-pro-plugin)
+
 ## What is Mocha Pro known for?
 The core of Mocha Pro's power lies in its planar tracking algorithm. Unlike traditional point trackers that follow a single pixel, planar tracking analyzes patterns of pixels on a flat (or deforming) surface. This makes it exceptionally robust for tracking challenging shots with motion blur, grain, or even when the tracked object goes off-screen or is partially obscured.
 
@@ -23,7 +25,7 @@ Mocha Pro's tools are designed to solve some of the most common and tedious prob
 
 3. Object Removal:
 
- -Leveraging its tracking and masking capabilities, Mocha Pro can seamlessly "paint out" unwanted objects, wires, rigs, or markers from a moving shot.
+ - Leveraging its tracking and masking capabilities, Mocha Pro can seamlessly "paint out" unwanted objects, wires, rigs, or markers from a moving shot.
 
 - It does this by analyzing a "clean plate" and intelligently blending pixels to fill the void, all while accounting for the motion of the shot.
 
